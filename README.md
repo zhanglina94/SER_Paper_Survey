@@ -5,9 +5,9 @@ Speech Emotion Recognition(SER) Papers
 ### SER Survey
 
 - 2021_Deep learning approaches for speech emotion recognition: state of the art and research challenges
-(Paper)[https://sci-hub.se/10.1007/s11042-020-09874-7]
+[Paper](https://sci-hub.se/10.1007/s11042-020-09874-7)
 - 2023_Transformers in Speech Processing: A Survey 
-(Paper)[https://arxiv.org/pdf/2303.11607.pdf]
+[Paper](https://arxiv.org/pdf/2303.11607.pdf)
 - 2023_Multimodal Deep Learning(CV+NLP) 
 
 
